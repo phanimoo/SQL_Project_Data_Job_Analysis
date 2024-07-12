@@ -78,3 +78,152 @@ ORDER BY
     avg_salary_yearly DESC,
     demand_count DESC
 LIMIT 25
+
+/*
+[
+  {
+    "skill_id": 8,
+    "skills": "go",
+    "demand_count": "27",
+    "avg_salary_yearly": "115319.89"
+  },
+  {
+    "skill_id": 97,
+    "skills": "hadoop",
+    "demand_count": "22",
+    "avg_salary_yearly": "113192.57"
+  },
+  {
+    "skill_id": 80,
+    "skills": "snowflake",
+    "demand_count": "37",
+    "avg_salary_yearly": "112947.97"
+  },
+  {
+    "skill_id": 74,
+    "skills": "azure",
+    "demand_count": "34",
+    "avg_salary_yearly": "111225.10"
+  },
+  {
+    "skill_id": 76,
+    "skills": "aws",
+    "demand_count": "32",
+    "avg_salary_yearly": "108317.30"
+  },
+  {
+    "skill_id": 233,
+    "skills": "jira",
+    "demand_count": "20",
+    "avg_salary_yearly": "104917.90"
+  },
+  {
+    "skill_id": 79,
+    "skills": "oracle",
+    "demand_count": "37",
+    "avg_salary_yearly": "104533.70"
+  },
+  {
+    "skill_id": 185,
+    "skills": "looker",
+    "demand_count": "49",
+    "avg_salary_yearly": "103795.30"
+  },
+  {
+    "skill_id": 1,
+    "skills": "python",
+    "demand_count": "236",
+    "avg_salary_yearly": "101397.22"
+  },
+  {
+    "skill_id": 5,
+    "skills": "r",
+    "demand_count": "148",
+    "avg_salary_yearly": "100498.77"
+  },
+  {
+    "skill_id": 182,
+    "skills": "tableau",
+    "demand_count": "230",
+    "avg_salary_yearly": "99287.65"
+  },
+  {
+    "skill_id": 7,
+    "skills": "sas",
+    "demand_count": "63",
+    "avg_salary_yearly": "98902.37"
+  },
+  {
+    "skill_id": 186,
+    "skills": "sas",
+    "demand_count": "63",
+    "avg_salary_yearly": "98902.37"
+  },
+  {
+    "skill_id": 61,
+    "skills": "sql server",
+    "demand_count": "35",
+    "avg_salary_yearly": "97785.73"
+  },
+  {
+    "skill_id": 9,
+    "skills": "javascript",
+    "demand_count": "20",
+    "avg_salary_yearly": "97587.00"
+  },
+  {
+    "skill_id": 183,
+    "skills": "power bi",
+    "demand_count": "110",
+    "avg_salary_yearly": "97431.30"
+  },
+  {
+    "skill_id": 0,
+    "skills": "sql",
+    "demand_count": "398",
+    "avg_salary_yearly": "97237.16"
+  },
+  {
+    "skill_id": 215,
+    "skills": "flow",
+    "demand_count": "28",
+    "avg_salary_yearly": "97200.00"
+  },
+  {
+    "skill_id": 199,
+    "skills": "spss",
+    "demand_count": "24",
+    "avg_salary_yearly": "92169.68"
+  },
+  {
+    "skill_id": 22,
+    "skills": "vba",
+    "demand_count": "24",
+    "avg_salary_yearly": "88783.29"
+  },
+  {
+    "skill_id": 196,
+    "skills": "powerpoint",
+    "demand_count": "58",
+    "avg_salary_yearly": "88701.09"
+  },
+  {
+    "skill_id": 181,
+    "skills": "excel",
+    "demand_count": "256",
+    "avg_salary_yearly": "87288.21"
+  },
+  {
+    "skill_id": 192,
+    "skills": "sheets",
+    "demand_count": "32",
+    "avg_salary_yearly": "86087.79"
+  },
+  {
+    "skill_id": 188,
+    "skills": "word",
+    "demand_count": "48",
+    "avg_salary_yearly": "82576.04"
+  }
+]
+*/
