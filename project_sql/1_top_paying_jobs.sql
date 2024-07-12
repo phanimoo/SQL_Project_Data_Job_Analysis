@@ -2,7 +2,7 @@
     What are the top-paying data nalyst jobs?
         -ID the top 10 highesting-paying Data Analyst roles that are available remotely
         -Focus on job postings with specified salaries (remove nulls)
-        -Highlight the top-paying opportunities for Data Analysts, offering insights into the most optimal roles and skills
+        -Why? To highlight the top-paying opportunities for Data Analysts, offering insights into the most optimal roles and skills
 */
 
 SELECT
