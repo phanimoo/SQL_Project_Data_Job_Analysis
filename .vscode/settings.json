@@ -8,6 +8,19 @@
             "name": "sql_course",
             "database": "sql_course",
             "username": "postgres"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Local instance MySQL80",
+            "username": "root",
+            "database": "sakila"
         }
     ]
 }
